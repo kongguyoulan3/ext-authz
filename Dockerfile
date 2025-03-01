@@ -1,0 +1,1 @@
+FROM istio/ext-authz
