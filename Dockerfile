@@ -1,1 +1,1 @@
-FROM istio/ext-authz
+FROM docker.io/istio/ext-authz:latest
